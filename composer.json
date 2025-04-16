@@ -27,7 +27,7 @@
         "stancl/virtualcolumn": "^1.5.0",
         "spatie/invade": "*",
         "laravel/prompts": "0.*"
-    }
+    },
     "autoload": {
         "psr-4": {
             "Stancl\\Tenancy\\": "src/"
